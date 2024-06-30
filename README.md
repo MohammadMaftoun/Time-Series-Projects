@@ -1,6 +1,7 @@
 # Time Series Projects
 
 Welcome to the Time Series Projects repository! This collection is dedicated to various time series analysis and forecasting projects, designed to help you explore and master different techniques and methodologies in time series data handling.
+
 ![time](https://developer-blogs.nvidia.com/wp-content/uploads/2023/03/abstract-bar-graph.jpg)
 
 # Overview
@@ -34,6 +35,8 @@ Time series analysis is crucial in many domains, including finance, economics, w
     Prophet: Using Facebook's Prophet library for flexible and interpretable forecasting.
     VAR and VECM Models: Implementing Vector Autoregression and Vector Error Correction Models for multivariate time series analysis.
     State Space Models: Exploring state space models and the Kalman filter for time series forecasting.
+
+![time_sr](https://casgroup.cl/casgroup/wp-content/uploads/2022/03/portadafbprophet.jpeg)
 
 
 # Getting Started
