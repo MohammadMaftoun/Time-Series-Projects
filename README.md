@@ -41,7 +41,7 @@ To get started with these projects, clone the repository:
 
 bash
 
-git clone https://github.com/yourusername/time-series-projects.git
+git clone https://github.com/MohammadMaftoun/Time-Series-Projects.git
 cd time-series-projects
 
 Each project folder contains detailed instructions, code, and example datasets to help you understand and implement the concepts.
