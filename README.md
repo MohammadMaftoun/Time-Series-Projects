@@ -1,6 +1,6 @@
 # Time Series Projects
 
-Welcome to the Time Series Projects repository! This collection is dedicated to various time series analysis and forecasting projects, developed to help you explore and master different approaches and methodologies in time series data handling.
+Welcome to the Time Series Projects repository! This collection is dedicated to various time series analysis and forecasting projects, developed to help explore and master different approaches and methodologies in time series data handling.
 
 ![time](https://developer-blogs.nvidia.com/wp-content/uploads/2023/03/abstract-bar-graph.jpg)
 
