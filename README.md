@@ -1,12 +1,13 @@
 # Time Series Projects
 
 Welcome to the Time Series Projects repository! This collection is dedicated to various time series analysis and forecasting projects, developed to help explore and master different approaches and methodologies in time series data handling.
+AI based forecasting methods have become the methods of choice in many applications of time series prediction or forecasting often outperforming other approaches. Consequently, over the recent years, these methods have now ubiquitous in large-scale industrial forecasting applications and have consistently ranked among the best entries in forecasting competition.
 
 ![time](https://developer-blogs.nvidia.com/wp-content/uploads/2023/03/abstract-bar-graph.jpg)
 
 # Overview
 
-Time series analysis is crucial in many domains, including finance, economics, weather forecasting, and more. This repository contains a curated set of projects covering a wide range of topics, from basic time series analysis to advanced forecasting models. Whether you are a beginner or an experienced data scientist, you'll find valuable resources and practical examples here.
+Time series analysis is crucial in many domains, including finance, economics, weather forecasting, etc. This repository contains a curated set of projects covering a wide range of topics, from basic time series analysis to advanced forecasting models. Whether you are a beginner or an experienced data scientist, you'll find valuable resources and practical examples here.
 
 # Projects
 1. Basic Time Series Analysis
