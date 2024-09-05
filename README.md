@@ -6,7 +6,7 @@ Welcome to the Time Series Projects repository! This collection is dedicated to 
 
 # Overview
 
-Time series analysis is crucial in many domains, including finance, economics, weather forecasting, etc. This repository contains a curated set of projects that cover a wide range of topics, from basic time series analysis to advanced forecasting models. Whether you are a beginner or an experienced data scientist, you'll find valuable resources and practical examples here.
+Time series analysis is crucial in many domains, including finance, economics, weather forecasting, and more. This repository contains a curated set of projects covering a wide range of topics, from basic time series analysis to advanced forecasting models. Whether you are a beginner or an experienced data scientist, you'll find valuable resources and practical examples here.
 
 # Projects
 1. Basic Time Series Analysis
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 # Contributions
 
-We welcome contributions! If you have a new time series project or an improvement to an existing project, feel free to submit a pull request. Please ensure your contributions adhere to our contribution guidelines.
+We welcome contributions! If you have a new time series project or an improvement to an existing project, you can submit a pull request. Please ensure your contributions adhere to our contribution guidelines.
 
 # Acknowledgements
 
