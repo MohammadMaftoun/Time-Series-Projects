@@ -1,7 +1,7 @@
 # Time Series Projects
 
 Welcome to the Time Series Projects repository! This collection is dedicated to various time series analysis and forecasting projects, developed to help explore and master different approaches and methodologies in time series data handling.
-AI-based forecasting methods have become the methods of choice in many applications of time series prediction or forecasting, often outperforming other approaches. Consequently, over the recent years, these methods have become ubiquitous in large-scale industrial forecasting applications and have consistently ranked among the best entries in forecasting competitions.
+AI-based forecasting methods have become the methods of choice in many applications of time series prediction or forecasting, often outperforming other approaches. Consequently, these methods have become ubiquitous in large-scale industrial forecasting applications over recent years and consistently ranked among the best entries in forecasting competitions.
 
 ![time](https://developer-blogs.nvidia.com/wp-content/uploads/2023/03/abstract-bar-graph.jpg)
 
@@ -22,7 +22,7 @@ Time series analysis is crucial in many domains, including finance, economics, w
 
 3. Machine Learning Approaches
 
-    Linear Regression for Time Series: Applying linear regression models to time series data.
+    Linear Regression for Time Series: Apply linear regression models to time series data.
     Random Forests and Gradient Boosting: Using ensemble methods for time series forecasting.
 
 4. Deep Learning Models
