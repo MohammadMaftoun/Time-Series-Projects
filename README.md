@@ -1,7 +1,7 @@
 # Time Series Projects
 
 Welcome to the Time Series Projects repository! This collection is dedicated to various time series analysis and forecasting projects, developed to help explore and master different approaches and methodologies in time series data handling.
-AI-based forecasting methods have become the methods of choice in many applications of time series prediction or forecasting, often outperforming other approaches. Consequently, these methods have become ubiquitous in large-scale industrial forecasting applications and consistently ranked among the best entries in forecasting competitions over recent years.
+AI-based forecasting methods have become the methods of choice in many applications of time series prediction or forecasting, often surpassing other approaches. Consequently, these methods have become ubiquitous in large-scale industrial forecasting applications and consistently ranked among the best entries in forecasting competitions over recent years.
 
 ![time](https://developer-blogs.nvidia.com/wp-content/uploads/2023/03/abstract-bar-graph.jpg)
 
